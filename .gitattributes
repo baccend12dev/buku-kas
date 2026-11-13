@@ -1,0 +1,5 @@
+# Abaikan template dan konfigurasi build dari statistik bahasa
+build/** linguist-vendored
+
+# Tandai bindings Wails sebagai kode hasil generate
+frontend/bindings/** linguist-generated
