@@ -229,5 +229,6 @@ Bindings di `frontend/bindings/` dibuat oleh Wails dan tidak diedit secara manua
 - Penulisan BANKLIST bersama aplikasi lain yang tidak mengikuti protokol lock Buku Kas belum didukung.
 - Pembacaan beberapa DBF belum menjamin snapshot konsisten jika aplikasi lain menulis sumber transaksi bersamaan.
 - Target penggunaan saat ini adalah Windows; konfigurasi platform lain dari starter Wails belum menjadi jaminan dukungan.
+- Target build Android beserta template Java/Gradle telah dihapus karena aplikasi ini ditujukan untuk desktop.
 
 Repository menyimpan source aplikasi. Data transaksi, backup, file lock, dan laporan hasil ekspor merupakan file operasional lokal dan tidak diperlukan untuk memahami kode aplikasi.

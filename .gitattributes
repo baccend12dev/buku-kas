@@ -2,4 +2,4 @@
 build/** linguist-generated=true
 
 # Tandai bindings Wails sebagai kode hasil generate
-bindings/** linguist-generated=true
+frontend/bindings/** linguist-generated=true
