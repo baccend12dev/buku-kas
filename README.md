@@ -6,6 +6,10 @@ Proyek ini mengembangkan kembali alur aplikasi VB6 menggunakan **Go, Wails, Reac
 
 > **Status pengembangan:** pembacaan transaksi, pengelolaan akun BANKLIST, laporan harian, dan ekspor `.xlsx` sudah tersedia. Input, edit, dan hapus transaksi kas belum diimplementasikan.
 
+## Tampilan Aplikasi
+
+![Tampilan utama Buku Kas pada menu Kas Masuk](img/tampilanutama.png)
+
 ## Fitur
 
 ### Kas Masuk dan Kas Keluar
